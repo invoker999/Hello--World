@@ -1,8 +1,6 @@
 # Hello--World
-GitHub tuto for repos creation
+This is a project to learn git from the book gitPro! 
 
-Knowledge is power, Invoker!!!
+I am in chapter 3 for now, branching and remote sync! 
 
-I have seen the end of time, Facelessvoid!!!
-
-Ahaa Ahhha ahahahah, Hero!!!
+Git is awsome and simple so far! 
