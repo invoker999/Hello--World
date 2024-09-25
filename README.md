@@ -1,8 +1,10 @@
-# Hello--World
-This is a project to learn git from the book gitPro! 
+README 
 
-I am in chapter 3 for now, branching and remote sync! 
+This explains how README files are used on GitHub
 
-Git is awsome and simple so far! 
+•฀ What the project is for
+•฀ How to configure and install it
+•฀ An example of how to use it or get it running
+•฀ The license that the project is offered under
+•฀ How to contribute to it
 
-Now I am going through git colaboration part of the book! awesome
